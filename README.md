@@ -91,6 +91,10 @@ mkdir data logs post
 
 ### Pre-trained Models
 
+Our Pre-trained model can be downloaded here
+链接：https://pan.baidu.com/s/11Iy9gOO2zCjE6_EevsA6-Q 
+提取码：njgt
+
 You can download our reference pre-trained models from [Google
 Drive](https://drive.google.com/file/d/1NvZkEqWNUBAfuhFPNGiCItjy4iU0UOy2).  Those models were
 trained with `config/wireframe.yaml` for 312k iterations.  Use `demo.py`, `process.py`, and
